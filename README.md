@@ -76,7 +76,7 @@ reiDL was created out of frustration with unreliable video download websites tha
 
 ## Technical Details
 
-ReiDL uses yt-dlp under the hood, providing:
+reiDL uses yt-dlp under the hood, providing:
 
 - Adaptive format selection based on platform
 - Reliable downloading with error handling
