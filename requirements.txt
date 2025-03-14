@@ -1,0 +1,8 @@
+customtkinter>=5.2.0
+yt-dlp>=2024.5.31
+Pillow>=10.0.0
+keyboard>=0.13.5
+pystray>=0.19.4
+pyinstaller>=6.3.0
+pynput>=1.7.6
+pywin32>=305; platform_system=="Windows" 
