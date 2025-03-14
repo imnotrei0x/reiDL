@@ -9,26 +9,34 @@ reiDL was created out of frustration with unreliable video download websites tha
   - Twitter/X 
   - TikTok
 
-- 🎬 **Flexible Format Selection**:
+- 🎬 **Format Selection**:
   - HD/4K video quality options (platform dependent)
   - High-quality audio extraction
   - Automatic format detection
 
-- ⏯️ **Advanced Download Management**:
+- ⏯️ **Download Management**:
   - Pause/Resume downloads
   - Cancel with automatic cleanup
   - Progress tracking with size/percentage display
 
-- 🔄 **Smart Platform Detection**:
+- 🔄 **Platform Detection**:
   - Automatic URL type recognition
   - Seamless switching between platforms
   - Format caching for improved performance
   
-- 🎨 **Modern User Experience**:
+- 🎨 **Simple UI**:
   - Clean, dark-themed UI
   - System tray integration
   - Global hotkey support for quick access
   - Customizable download location
+
+## Quick Access & Convenience
+
+- **Global Hotkey**: Press your configured hotkey (set in settings) to instantly show/hide the app from anywhere
+- **System Tray**: The app minimizes to system tray instead of taskbar for clutter-free desktop
+- **Always Ready**: Even when minimized, reiDL remains running and instantly accessible
+- **Smart Focus**: When shown via hotkey, the app automatically appears on top of other windows
+- **Persistent Settings**: Your download location, hotkey preferences, and other settings are saved between sessions
 
 ## Requirements
 
