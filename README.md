@@ -8,18 +8,22 @@ reiDL is a lightweight yet powerful desktop application for downloading videos f
   - YouTube (including shorts)
   - Twitter/X 
   - TikTok
+
 - 🎬 **Flexible Format Selection**:
   - HD/4K video quality options (platform dependent)
   - High-quality audio extraction
   - Automatic format detection
+
 - ⏯️ **Advanced Download Management**:
   - Pause/Resume downloads
   - Cancel with automatic cleanup
   - Progress tracking with size/percentage display
+
 - 🔄 **Smart Platform Detection**:
   - Automatic URL type recognition
   - Seamless switching between platforms
   - Format caching for improved performance
+  
 - 🎨 **Modern User Experience**:
   - Clean, dark-themed UI
   - System tray integration
