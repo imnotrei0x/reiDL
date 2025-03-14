@@ -1,6 +1,6 @@
 # reiDL - A Video Downloader
 
-reiDL is a lightweight yet powerful desktop application for downloading videos from popular platforms including YouTube, Twitter/X, and TikTok. Built with Python and customtkinter, it provides a modern interface with robust functionality for downloading videos in various qualities.
+reiDL was created out of frustration with unreliable video download websites that either don't work. This desktop application provides a dependable, free solution for downloading videos from YouTube, Twitter/X, and TikTok with a clean interface and robust functionality. Nothing more, nothing less.
 
 ## Features
 
